@@ -156,6 +156,16 @@ html {
   flex-grow: 1;
 }
 
+.content__video-card-title {
+  font-family: 'Oswald', sans-serif;
+  font-size: 30px;
+  font-weight: 700;
+}
+
+.content__video-card-description {
+  font-size: 18px;
+  font-weight: 400;
+}
 
 .content__video-card-thumbnail {
   height: 103px;
@@ -170,7 +180,6 @@ a {
 
 .content__card-link {
   display: block;
-  font-family: 'Fira Sans', sans-serif;
   color: #fff;
 }
 
