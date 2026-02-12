@@ -160,6 +160,7 @@ html {
   font-family: 'Oswald', sans-serif;
   font-size: 30px;
   font-weight: 700;
+  text-transform: uppercase;
 }
 
 .content__video-card-description {
@@ -181,10 +182,6 @@ a {
 .content__card-link {
   display: block;
   color: #fff;
-}
-
-.content__video-card-title {
-  text-transform: uppercase;
 }
 
 .content__card-link_current {
